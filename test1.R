@@ -1,4 +1,4 @@
-
+library(ggplot2)
 
 #Find Prime numbers Between 1 and 1,000,000
 
